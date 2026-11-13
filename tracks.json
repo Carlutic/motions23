@@ -1,0 +1,254 @@
+[
+  {
+    "name": "PV709 - Colorful x Melody (0+10) (2)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv709_colorful_x_melod/main_2.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv709_colorful_x_melod/partner_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/8a6fe944120f3305144147ebe1b95d544fda1b9e.mp3"
+  },
+  {
+    "name": "PV711 - Miku Miku ni Shite Ageru (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv711_miku_miku_ni_shi/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv711_miku_miku_ni_shi/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/6ec4b12dc41c87a0730e6137cc24f00f9e24fc68.mp3"
+  },
+  {
+    "name": "PV716 - Clover Club (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv716_clover_club_0_10/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv716_clover_club_0_10/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/2d0727ac47a1907639e343ccea3bb7365a728348.mp3"
+  },
+  {
+    "name": "PV718 - SPiCa 39's Giving Day Edition",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv718_spica_39_s_givin/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/5c286635c3586a711932012e1848bc63013e01c0.mp3"
+  },
+  {
+    "name": "PV720 - The Intense Singing of Hatsune Miku",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv720_the_intense_sing/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/e384f983b8c77cbb675d0d8c7fffa37069d509db.mp3"
+  },
+  {
+    "name": "PV721 - Kagerou Daze (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv721_kagerou_daze_0_1/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv721_kagerou_daze_0_1/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/7eb5ce1e2aa1475ea123c60a7a9ae38915b282b6.mp3"
+  },
+  {
+    "name": "PV721 - Kagerou Daze (0+10) (2)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv721_kagerou_daze_0_1/main_2.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv721_kagerou_daze_0_1/partner_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/7eb5ce1e2aa1475ea123c60a7a9ae38915b282b6.mp3"
+  },
+  {
+    "name": "PV735 - Cantarella ~Grace Edition~ (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv735_cantarella_grace/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv735_cantarella_grace/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/b8e1a492864fff0958dd9c98b4c6a3870216b61c.mp3"
+  },
+  {
+    "name": "PV735 - Cantarella ~Grace Edition~ (0+10) (2)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv735_cantarella_grace/main_2.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv735_cantarella_grace/partner_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/b8e1a492864fff0958dd9c98b4c6a3870216b61c.mp3"
+  },
+  {
+    "name": "PV742 - Sweet Devil Live Mode",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv742_sweet_devil_live/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/2c5aef2b2dee7f573820b8b9523ec8c8b9c54465.mp3"
+  },
+  {
+    "name": "PV743 - Cat Food Live Mode",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv743_cat_food_live_mo/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/989314f0f2e8657f85c91c42029b602895dc8ded.mp3"
+  },
+  {
+    "name": "PV744 - PianoxFortexScandal Live Mode",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv744_pianoxfortexscan/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/dc46fc29ce7fa98b7d1b2fae33c4b0be76f12916.mp3"
+  },
+  {
+    "name": "PV745 - Erase or Zero Live Mode",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv745_erase_or_zero_li/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/37209bb5417dc079bb957903e2fab6128b116b3a.mp3"
+  },
+  {
+    "name": "PV745 - Erase or Zero Live Mode - PV745_EOZ_P1_00",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv745_erase_or_zero_li/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/37209bb5417dc079bb957903e2fab6128b116b3a.mp3"
+  },
+  {
+    "name": "PV746 - Hello Worker Live Mode",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv746_hello_worker_liv/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/a504a8a5beb51a8040bbd00a9905d356a601a33d.mp3"
+  },
+  {
+    "name": "PV747 - Love-Hate Live Mode",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv747_love_hate_live_m/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/30c7f18f4c418cf82ced115c3b4aadfc0b3b3543.mp3"
+  },
+  {
+    "name": "PV747 - Love-Hate Live Mode - PV747_SKK_P2_00",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv747_love_hate_live_m/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/30c7f18f4c418cf82ced115c3b4aadfc0b3b3543.mp3"
+  },
+  {
+    "name": "PV748 - Tokyo Teddy Bear Live Mode",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv748_tokyo_teddy_bear/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/79457def982a8ec19a8f5a0fea3dcf811ce6f2e5.mp3"
+  },
+  {
+    "name": "PV749 - Glow Live Mode",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv749_glow_live_mode/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/d4240388474799bbb15bb7d2e9cefe2735903533.mp3"
+  },
+  {
+    "name": "PV750 - Tell Your World Live Mode",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv750_tell_your_world_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/5931ed858ed2eb637c843138890b7975cf016d7e.mp3"
+  },
+  {
+    "name": "PV751 - Odds and Ends Live Mode",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv751_odds_and_ends_li/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/40e0615250e7b60bfa25ff7791f1ee1fdc279e6b.mp3"
+  },
+  {
+    "name": "PV755 - Ai Kotoba (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv755_ai_kotoba_0_10_/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv755_ai_kotoba_0_10_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/13ea764835cea590ae39e8b8c50dff062770d19e.mp3"
+  },
+  {
+    "name": "PV756 - Sekiranun Graffiti",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv756_sekiranun_graffi/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/e6740f86addce93bee441e36b13b64121c105d3c.mp3"
+  },
+  {
+    "name": "PV756 - Sekiranun Graffiti - PV756_SRG_P2_00",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv756_sekiranun_graffi/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/e6740f86addce93bee441e36b13b64121c105d3c.mp3"
+  },
+  {
+    "name": "PV757 - Look This Way, Baby (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv757_look_this_way_ba/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv757_look_this_way_ba/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/db9dc2aca26db07f570212ba06a330b51d7f3ad2.mp3"
+  },
+  {
+    "name": "PV758 - Change Me (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv758_change_me_0_10_/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv758_change_me_0_10_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/9638f911b638db3a49b980865e0c6772d20cd060.mp3"
+  },
+  {
+    "name": "PV759 - Yellow",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv759_yellow/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/10d3931562a3b3b79c22bc3bbc9ca92c80e45b08.mp3"
+  },
+  {
+    "name": "PV762 - Just Be Friends",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv762_just_be_friends/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/a3e8fea1646d185b5a182013034cd825f22946bc.mp3"
+  },
+  {
+    "name": "PV764 - Rolling Girl (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv764_rolling_girl_0_1/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv764_rolling_girl_0_1/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/88aa635ef2085576dcf6689248f007b0e472c556.mp3"
+  },
+  {
+    "name": "PV769 - Electric Angel",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv769_electric_angel/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/ab7c0e5c4398658ccb3e3189c823b7b6cd30ff2a.mp3"
+  },
+  {
+    "name": "PV770 - Promise (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv770_promise_0_10_/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv770_promise_0_10_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/48b10c69be32643246911b92856caa1e61f65ee9.mp3"
+  },
+  {
+    "name": "PV770 - Promise (0+10) (2)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv770_promise_0_10_/main_2.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv770_promise_0_10_/partner_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/48b10c69be32643246911b92856caa1e61f65ee9.mp3"
+  },
+  {
+    "name": "FreelyTomorrow",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f_motions_freelytomorrow_f/freelytomorrow/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/a80a58b61095dc87cf11a3a69e2c40961ff2271c.mp3"
+  },
+  {
+    "name": "FreelyTomorrow - MotherboneControl",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f_motions_freelytomorrow_f/freelytomorrow_motherb/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/a80a58b61095dc87cf11a3a69e2c40961ff2271c.mp3"
+  },
+  {
+    "name": "Melancholic",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f_motions_melancholic_mela/melancholic/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f_motions_melancholic_mela/melancholic/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/44f057f94c2928737191dfbdaa06066c98586b6d.mp3"
+  },
+  {
+    "name": "ODDSandENDS",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f_motions_oddsandends_odds/oddsandends/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f_motions_oddsandends_odds/oddsandends/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/b7e3479e7f6bbc6ee1dc977cda22e45d9e900ca3.mp3"
+  },
+  {
+    "name": "One 6th Out of Gravity",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f_motions_one_6th_out_of_g/one_6th_out_of_gravity/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f_motions_one_6th_out_of_g/one_6th_out_of_gravity/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/ea9b6da691b684c81ca7cea0e6097b130c85ddbe.mp3"
+  },
+  {
+    "name": "SummerIdol2020REMAKE",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f_motions_summeridol2020re/summeridol2020remake/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f_motions_summeridol2020re/summeridol2020remake/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/b860d34bfe44522b44fc67fd5ffa75a26d8b0ac9.mp3"
+  },
+  {
+    "name": "SummerIdol2020REMAKE - mmd_SummerIdol_MIK",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f_motions_summeridol2020re/summeridol2020remake_m/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f_motions_summeridol2020re/summeridol2020remake/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/b860d34bfe44522b44fc67fd5ffa75a26d8b0ac9.mp3"
+  }
+]
